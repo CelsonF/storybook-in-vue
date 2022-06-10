@@ -29,11 +29,11 @@ npm run lint
 ## Storybook
 ### Compiles storybook for development
 ```
-npm run storybook:serve
+npm run storybook
 ```
 ### Compiles and minifies for production
 ```
-npm run storybook:build
+npm run build-storybook
 ```
 
 
