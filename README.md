@@ -40,8 +40,9 @@ npm run storybook:build
 ### Customize configuration
 See more about VUE [Configuration Reference](https://cli.vuejs.org/config/).
 
-See more about Storybook 6.0.0 [Reference](https://cli.vuejs.org/config/).
+See more about Storybook 6.5 [Reference](https://storybook.js.org/docs/vue/get-started/introduction).
 
 See more about Bootstrap 4.6.x [Reference](https://getbootstrap.com/docs/5.1/getting-started/introduction/).
 
 See more about Bootstrap Vue [Reference](https://bootstrap-vue.org/docs).
+
